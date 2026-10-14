@@ -1,17 +1,22 @@
 {
- "version": "1.4.0",
+ "version": "1.4.1",
  "url": "game.html",
  "notes": {
   "de": [
-   "Schule, Arzt & Krankenkasse, Börse und Social Media",
-   "53 Länder mit eigener Währung",
-   "500 Ereignisse und Juwelen-Shop"
+   "Erstes Update ohne neue APK",
+   "Geschenk: Code UPDATE für 100 Juwelen",
+   "Börse übersichtlicher"
   ],
   "en": [
-   "School, doctors & insurance, stock market and social media",
-   "53 countries with their own currency",
-   "500 events and a gem shop"
+   "First update without a new APK",
+   "Gift: code UPDATE for 100 gems",
+   "Clearer stock market"
   ]
  },
- "codes": []
+ "codes": [
+  {
+   "code": "UPDATE",
+   "gems": 100
+  }
+ ]
 }
