@@ -1,23 +1,28 @@
 {
- "version": "1.4.1",
+ "version": "1.4.5",
  "url": "game.html",
- "sizeKb": 656,
+ "sizeKb": 1079,
  "notes": {
   "de": [
-   "Erstes Update ohne neue APK",
-   "Geschenk: Code UPDATE für 100 Juwelen",
-   "Börse übersichtlicher"
+   "Charakter-Editor mit Gesicht, Stadt und Geschlecht (auch divers)",
+   "Schule und Gesetze je nach Land und Bundesland, Schulwahl ab Klasse 4 bzw. 6",
+   "Bewerbungsgespräche und Führerscheinprüfungen mit 3 Fragen",
+   "Premium mit Privatinsel, 4 Sonderkarrieren, Spenden",
+   "100 Erfolge, geheime Ereignisse, mehr Häuser, Autos und Boote",
+   "Updates sind ab jetzt digital signiert",
+   "Geschenk: Code V145 für 100 Juwelen und 7 Tage Premium"
   ],
   "en": [
-   "First update without a new APK",
-   "Gift: code UPDATE for 100 gems",
-   "Clearer stock market"
+   "Character creator with face, city and gender (including non-binary)",
+   "School and laws depend on country and state, school choice after grade 4 or 6",
+   "Job interviews and licence tests with 3 questions",
+   "Premium with a private island, 4 special careers, donations",
+   "100 achievements, secret events, more houses, cars and boats",
+   "Updates are now digitally signed",
+   "Gift: code V145 for 100 gems and 7 days of Premium"
   ]
  },
- "codes": [
-  {
-   "code": "UPDATE",
-   "gems": 100
-  }
- ]
+ "codes": [],
+ "sha512": "5b66b3aab94e5d76e82f3b5e369eedef51b08d85bf061b74446888a5337a580febe9d8a945f0f195c103ae79b3b61caf581e32e0a0f6571d7f5641e213e5d255",
+ "sig": "3BfGxd4CqB4eFkhZbI6AjMKolpp7VfUxMs5zySOR0xFozVj44Ey0K1dVBs4YqwZYkyrnIvZp/Pg9ZI69eokABg=="
 }
