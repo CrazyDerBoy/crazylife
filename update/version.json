@@ -1,28 +1,26 @@
 {
- "version": "1.4.5",
- "url": "game.html",
- "sizeKb": 1079,
- "notes": {
-  "de": [
-   "Charakter-Editor mit Gesicht, Stadt und Geschlecht (auch divers)",
-   "Schule und Gesetze je nach Land und Bundesland, Schulwahl ab Klasse 4 bzw. 6",
-   "Bewerbungsgespräche und Führerscheinprüfungen mit 3 Fragen",
-   "Premium mit Privatinsel, 4 Sonderkarrieren, Spenden",
-   "100 Erfolge, geheime Ereignisse, mehr Häuser, Autos und Boote",
-   "Updates sind ab jetzt digital signiert",
-   "Geschenk: Code V145 für 100 Juwelen und 7 Tage Premium"
-  ],
-  "en": [
-   "Character creator with face, city and gender (including non-binary)",
-   "School and laws depend on country and state, school choice after grade 4 or 6",
-   "Job interviews and licence tests with 3 questions",
-   "Premium with a private island, 4 special careers, donations",
-   "100 achievements, secret events, more houses, cars and boats",
-   "Updates are now digitally signed",
-   "Gift: code V145 for 100 gems and 7 days of Premium"
-  ]
- },
- "codes": [],
- "sha512": "5b66b3aab94e5d76e82f3b5e369eedef51b08d85bf061b74446888a5337a580febe9d8a945f0f195c103ae79b3b61caf581e32e0a0f6571d7f5641e213e5d255",
- "sig": "3BfGxd4CqB4eFkhZbI6AjMKolpp7VfUxMs5zySOR0xFozVj44Ey0K1dVBs4YqwZYkyrnIvZp/Pg9ZI69eokABg=="
+  "version": "2.0.0",
+  "url": "game.html",
+  "sizeKb": 3003,
+  "notes": {
+    "de": [
+      "Gefängnis komplett neu: Zellengenoss:in, Wärter:innen, Jobs, Gang-Ränge, Tunnel, Einzelhaft, Bewährungshelfer:in",
+      "Arzt wie im echten Leben: Notaufnahme, Krankschreibung, Vorsorge, OPs, Dauermedikamente",
+      "Neu: Behörden & Verträge (Steuer, Versicherungen, Handyvertrag, Schufa) und Nachbar:innen",
+      "Tierheim nach Kategorien mit 57 Rassen, größere Schulklassen mit Rollen",
+      "Über 1.000 Vornamen passend zum Geburtsjahrzehnt, 71 neue Ereignisse",
+      "Neu gezeichnete Bilder und Dein Leben in 10 Momenten als teilbares Bild"
+    ],
+    "en": [
+      "Prison rebuilt: cellmate, officers, jobs, gang ranks, tunnel, solitary, probation officer",
+      "Doctors like in real life: emergency room, sick notes, screenings, operations, long-term medication",
+      "New: paperwork & contracts (tax, insurance, phone contract, credit score) and neighbours",
+      "Shelter by category with 57 breeds, bigger school classes with roles",
+      "More than 1,000 first names that fit the decade of birth, 71 new events",
+      "Redrawn pictures and your life in 10 moments as a shareable image"
+    ]
+  },
+  "codes": [],
+  "sha512": "18a30132f4b6b92931b2055de4fa8dfbecfc9d7d8ade9eec58ae050771e3111f1d0f77dd2bd92c31e95ecbd5b2620546532d8c394c1234f021006173959324a9",
+  "sig": "tC7JqVz96h5aiRR5hnpcmIzyVFqufubKXRsR8JSIUktKIi3wO3HRpa7q9TVHZ+wA3rqG79J9AgVlfrtyoSwJDg=="
 }
