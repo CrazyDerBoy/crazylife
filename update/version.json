@@ -1,26 +1,26 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "url": "game.html",
-  "sizeKb": 3003,
+  "sizeKb": 3532,
   "notes": {
     "de": [
-      "Gefängnis komplett neu: Zellengenoss:in, Wärter:innen, Jobs, Gang-Ränge, Tunnel, Einzelhaft, Bewährungshelfer:in",
-      "Arzt wie im echten Leben: Notaufnahme, Krankschreibung, Vorsorge, OPs, Dauermedikamente",
-      "Neu: Behörden & Verträge (Steuer, Versicherungen, Handyvertrag, Schufa) und Nachbar:innen",
-      "Tierheim nach Kategorien mit 57 Rassen, größere Schulklassen mit Rollen",
-      "Über 1.000 Vornamen passend zum Geburtsjahrzehnt, 71 neue Ereignisse",
-      "Neu gezeichnete Bilder und Dein Leben in 10 Momenten als teilbares Bild"
+      "Verbrechen komplett neu: 34 Taten bis Mord und Totschlag, du planst Ziel, Waffe, Vorgehen und Flucht selbst",
+      "Strafen wie vor Gericht: Tagessätze, Sozialstunden, Bewährung, lebenslang, DNA-Aufklärung nach Jahren",
+      "95 Berufe, 90 davon mit 5 bis 8 Karrierestufen statt 4, dazu Gehaltsverhandlung und Arbeitgeberwechsel",
+      "Besitz benutzen, Einkaufszentrum mit 35 Gegenständen und eigene Firma in 14 Branchen",
+      "16 Charakterzüge, Süchte, Hobbys, Rival:innen, Erbstreit und Weltereignisse",
+      "Neu im Shop: Creator-Karriere (Influencer:in, Streamer:in) und Szenario-Modus mit 10 Herausforderungen"
     ],
     "en": [
-      "Prison rebuilt: cellmate, officers, jobs, gang ranks, tunnel, solitary, probation officer",
-      "Doctors like in real life: emergency room, sick notes, screenings, operations, long-term medication",
-      "New: paperwork & contracts (tax, insurance, phone contract, credit score) and neighbours",
-      "Shelter by category with 57 breeds, bigger school classes with roles",
-      "More than 1,000 first names that fit the decade of birth, 71 new events",
-      "Redrawn pictures and your life in 10 moments as a shareable image"
+      "Crime rebuilt: 34 crimes up to murder and manslaughter, you plan target, weapon, approach and getaway yourself",
+      "Sentences like in court: daily-unit fines, community service, probation, life, DNA cases cracked years later",
+      "95 jobs, 90 of them with 5 to 8 career levels instead of 4, plus salary negotiation and switching employers",
+      "Use your possessions, a shopping mall with 35 items and your own company in 14 industries",
+      "16 character traits, addictions, hobbies, rivals, inheritance disputes and world events",
+      "New in the shop: creator career (influencer, streamer) and scenario mode with 10 challenges"
     ]
   },
   "codes": [],
-  "sha512": "18a30132f4b6b92931b2055de4fa8dfbecfc9d7d8ade9eec58ae050771e3111f1d0f77dd2bd92c31e95ecbd5b2620546532d8c394c1234f021006173959324a9",
-  "sig": "tC7JqVz96h5aiRR5hnpcmIzyVFqufubKXRsR8JSIUktKIi3wO3HRpa7q9TVHZ+wA3rqG79J9AgVlfrtyoSwJDg=="
+  "sha512": "eda187fc09e26feceb425fa6173b0bf14a5f723aa4558bcd03841a9e3aadf229bab690e420a2783fb912fbf75bbd6e1651d49d6ede587296d5edd283f7284463",
+  "sig": "iOl4xqcuKOL3Gyhf2slXYd535Q3HehJ2iI44hLAxn2IYIe4qD6pvbTzV8lmsR6TmpHGWWacbvlnUcolV8Z9DCQ=="
 }
