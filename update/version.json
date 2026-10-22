@@ -1,26 +1,26 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "url": "game.html",
-  "sizeKb": 3532,
+  "sizeKb": 3733,
   "notes": {
     "de": [
-      "Verbrechen komplett neu: 34 Taten bis Mord und Totschlag, du planst Ziel, Waffe, Vorgehen und Flucht selbst",
-      "Strafen wie vor Gericht: Tagessätze, Sozialstunden, Bewährung, lebenslang, DNA-Aufklärung nach Jahren",
-      "95 Berufe, 90 davon mit 5 bis 8 Karrierestufen statt 4, dazu Gehaltsverhandlung und Arbeitgeberwechsel",
-      "Besitz benutzen, Einkaufszentrum mit 35 Gegenständen und eigene Firma in 14 Branchen",
-      "16 Charakterzüge, Süchte, Hobbys, Rival:innen, Erbstreit und Weltereignisse",
-      "Neu im Shop: Creator-Karriere (Influencer:in, Streamer:in) und Szenario-Modus mit 10 Herausforderungen"
+      "Mafia-Aufstieg vom Laufburschen bis zum Paten, mit Revierkrieg, Putsch, Verhaftung und Kronzeugenprogramm",
+      "Königshaus: hineingeboren, einheiraten oder Titel kaufen, vom Grafen bis zur Krone",
+      "Profisport (4 Sportarten) und Kampfsport (3 Disziplinen) mit sieben Stufen bis zur Legende",
+      "Astronaut:in vertieft: MINT-Studium, Pilotenschein, Simulator und Außenbordeinsatz",
+      "Mein Reich: eigener Kult, Auktionshaus mit Schwarzmarkt, Museum und Spukhaus mit Exorzist",
+      "Kostenlose Wochen-Challenge, sechs neue Szenarien und 19 neue Erfolge"
     ],
     "en": [
-      "Crime rebuilt: 34 crimes up to murder and manslaughter, you plan target, weapon, approach and getaway yourself",
-      "Sentences like in court: daily-unit fines, community service, probation, life, DNA cases cracked years later",
-      "95 jobs, 90 of them with 5 to 8 career levels instead of 4, plus salary negotiation and switching employers",
-      "Use your possessions, a shopping mall with 35 items and your own company in 14 industries",
-      "16 character traits, addictions, hobbies, rivals, inheritance disputes and world events",
-      "New in the shop: creator career (influencer, streamer) and scenario mode with 10 challenges"
+      "Mafia career from runner to godfather, with turf war, a coup, arrest and the state witness programme",
+      "Royal family: born into it, marry in or buy a title, from count to the crown",
+      "Pro sports (4 sports) and combat sports (3 disciplines) with seven levels up to legend",
+      "Astronaut deepened: STEM degree, pilot licence, simulator and spacewalk",
+      "My domain: your own cult, an auction house with a black market, a museum and a haunted house with an exorcist",
+      "A free weekly challenge, six new scenarios and 19 new achievements"
     ]
   },
   "codes": [],
-  "sha512": "eda187fc09e26feceb425fa6173b0bf14a5f723aa4558bcd03841a9e3aadf229bab690e420a2783fb912fbf75bbd6e1651d49d6ede587296d5edd283f7284463",
-  "sig": "iOl4xqcuKOL3Gyhf2slXYd535Q3HehJ2iI44hLAxn2IYIe4qD6pvbTzV8lmsR6TmpHGWWacbvlnUcolV8Z9DCQ=="
+  "sha512": "06c9ba4cd4f015fb93b3acf9f35645a88ccfc916de4669796450862933fb74cf1ce1a36cb1cd5c99dfa90d061ee1c13f757842d6b631768b155be9dc9189d8dc",
+  "sig": "H8xUuT/c6LSuUj3Z8Nn12P9nGX+o2+EeqJRobpzJXVURpKPKyfxpztFilNrAoErGhu+9HzPHYZcDHK8tr5oLAA=="
 }
