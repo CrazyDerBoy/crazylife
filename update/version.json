@@ -1,26 +1,20 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "url": "game.html",
-  "sizeKb": 3733,
+  "sizeKb": 3739,
   "notes": {
     "de": [
-      "Mafia-Aufstieg vom Laufburschen bis zum Paten, mit Revierkrieg, Putsch, Verhaftung und Kronzeugenprogramm",
-      "Königshaus: hineingeboren, einheiraten oder Titel kaufen, vom Grafen bis zur Krone",
-      "Profisport (4 Sportarten) und Kampfsport (3 Disziplinen) mit sieben Stufen bis zur Legende",
-      "Astronaut:in vertieft: MINT-Studium, Pilotenschein, Simulator und Außenbordeinsatz",
-      "Mein Reich: eigener Kult, Auktionshaus mit Schwarzmarkt, Museum und Spukhaus mit Exorzist",
-      "Kostenlose Wochen-Challenge, sechs neue Szenarien und 19 neue Erfolge"
+      "Mafia-Aufstieg, Königshaus sowie Profi- und Kampfsport gibt es jetzt im Shop, einzeln oder im Karriere-Paket Plus",
+      "Laufende Karrieren laufen weiter, Szenarien schalten ihre Karriere selbst frei",
+      "Museum leichter: Eröffnung schon mit zwei Stücken und zu geringeren Kosten"
     ],
     "en": [
-      "Mafia career from runner to godfather, with turf war, a coup, arrest and the state witness programme",
-      "Royal family: born into it, marry in or buy a title, from count to the crown",
-      "Pro sports (4 sports) and combat sports (3 disciplines) with seven levels up to legend",
-      "Astronaut deepened: STEM degree, pilot licence, simulator and spacewalk",
-      "My domain: your own cult, an auction house with a black market, a museum and a haunted house with an exorcist",
-      "A free weekly challenge, six new scenarios and 19 new achievements"
+      "Mafia, royal family, and pro and combat sports are now in the shop, singly or in the Career Pack Plus",
+      "Careers already running carry on, scenarios unlock their own career",
+      "Museum made easier: you can open it with two pieces and at a lower cost"
     ]
   },
   "codes": [],
-  "sha512": "06c9ba4cd4f015fb93b3acf9f35645a88ccfc916de4669796450862933fb74cf1ce1a36cb1cd5c99dfa90d061ee1c13f757842d6b631768b155be9dc9189d8dc",
-  "sig": "H8xUuT/c6LSuUj3Z8Nn12P9nGX+o2+EeqJRobpzJXVURpKPKyfxpztFilNrAoErGhu+9HzPHYZcDHK8tr5oLAA=="
+  "sha512": "cbd596f67682310299e06cf42c3110054031af3eed32b629e6a616b39237c283f5c7db2ea31ca498b33b2f907776679160367ca0c9ccde0f1994bcb15eb87535",
+  "sig": "IavAJpu9frJoEHFMVGiqmZTi2hbSCRzuBu5d1xSPVJbD8iA//wuFniyAiD/1vn2LUO2faCEZzxjto3wtyiOWDg=="
 }
