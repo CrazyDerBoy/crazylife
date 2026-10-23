@@ -1,20 +1,16 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "url": "game.html",
-  "sizeKb": 3739,
+  "sizeKb": 3740,
   "notes": {
     "de": [
-      "Mafia-Aufstieg, Königshaus sowie Profi- und Kampfsport gibt es jetzt im Shop, einzeln oder im Karriere-Paket Plus",
-      "Laufende Karrieren laufen weiter, Szenarien schalten ihre Karriere selbst frei",
-      "Museum leichter: Eröffnung schon mit zwei Stücken und zu geringeren Kosten"
+      "Die Karriereleiter ist nicht mehr einsehbar: Höhere Titel erfährst du erst bei der Beförderung, im Werdegang siehst du nur deine bisherigen Stationen"
     ],
     "en": [
-      "Mafia, royal family, and pro and combat sports are now in the shop, singly or in the Career Pack Plus",
-      "Careers already running carry on, scenarios unlock their own career",
-      "Museum made easier: you can open it with two pieces and at a lower cost"
+      "The career ladder is no longer visible: you learn higher titles when you get promoted, and your career history shows only your positions so far"
     ]
   },
   "codes": [],
-  "sha512": "cbd596f67682310299e06cf42c3110054031af3eed32b629e6a616b39237c283f5c7db2ea31ca498b33b2f907776679160367ca0c9ccde0f1994bcb15eb87535",
-  "sig": "IavAJpu9frJoEHFMVGiqmZTi2hbSCRzuBu5d1xSPVJbD8iA//wuFniyAiD/1vn2LUO2faCEZzxjto3wtyiOWDg=="
+  "sha512": "cdae39cef578080520c74ec73c9c71434cdb2e437ffa5ff12fc669f0cf012ec908fd8eac2f192f7c6451c96489e86d595b99299cd3e9e0fe2c8485c958553931",
+  "sig": "VzAE8Kp+YuuY4SUjv9mqlgbfHnze6O+jlG8tcY57Lukaf/mS3jKgfiAUEgHLkMDRZmxtpSwU3ky3qOrVkgipAQ=="
 }
