@@ -1,16 +1,16 @@
 {
-  "version": "2.2.2",
+  "version": "2.3.0",
   "url": "game.html",
-  "sizeKb": 3740,
+  "sizeKb": 4090,
   "notes": {
     "de": [
-      "Die Karriereleiter ist nicht mehr einsehbar: Höhere Titel erfährst du erst bei der Beförderung, im Werdegang siehst du nur deine bisherigen Stationen"
+      "Das große System-Update: Familie und Patchwork, Scheidung, Mitmenschen mit eigenem Leben, Erbe und Dynastie, Konjunktur und Schufa, Kredite und Mieter, Arbeitsrecht, Studium, 46 neue Krankheiten mit Transplantationen"
     ],
     "en": [
-      "The career ladder is no longer visible: you learn higher titles when you get promoted, and your career history shows only your positions so far"
+      "The big systems update: family and patchwork, divorce, people with their own lives, inheritance and dynasty, business cycles and credit score, loans and tenants, employment law, university, 46 new illnesses with transplants"
     ]
   },
   "codes": [],
-  "sha512": "cdae39cef578080520c74ec73c9c71434cdb2e437ffa5ff12fc669f0cf012ec908fd8eac2f192f7c6451c96489e86d595b99299cd3e9e0fe2c8485c958553931",
-  "sig": "VzAE8Kp+YuuY4SUjv9mqlgbfHnze6O+jlG8tcY57Lukaf/mS3jKgfiAUEgHLkMDRZmxtpSwU3ky3qOrVkgipAQ=="
+  "sha512": "ae0bdb901295b2b37d9ada5feffe3361b7feb4e4f639657a55f2134112fde3d4abb0f02ee576b0c5413e296729a5bfca87850a99abaed04ac667c8a7047b89ff",
+  "sig": "e2ZTvAmvg6aKuoe7HwsX4oiD96mKkLyo+7D7Q2ytH7tOJSFd5888ck3pTr6JtsxAIp+S76kkbiruuWDPxTnuCA=="
 }
