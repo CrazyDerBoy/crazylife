@@ -1,16 +1,16 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "url": "game.html",
-  "sizeKb": 4090,
+  "sizeKb": 6962,
   "notes": {
     "de": [
-      "Das große System-Update: Familie und Patchwork, Scheidung, Mitmenschen mit eigenem Leben, Erbe und Dynastie, Konjunktur und Schufa, Kredite und Mieter, Arbeitsrecht, Studium, 46 neue Krankheiten mit Transplantationen"
+      "Neue Optik: Alle Icons und Flaggen sind jetzt einheitliche 3D-Bilder statt System-Emojis, auf jedem Handy gleich. Dazu: Die Familien-Symbole und dunkle Icons sind besser lesbar."
     ],
     "en": [
-      "The big systems update: family and patchwork, divorce, people with their own lives, inheritance and dynasty, business cycles and credit score, loans and tenants, employment law, university, 46 new illnesses with transplants"
+      "New look: all icons and flags are now consistent 3D images instead of system emojis, identical on every phone. Family icons and dark icons are easier to read too."
     ]
   },
   "codes": [],
-  "sha512": "ae0bdb901295b2b37d9ada5feffe3361b7feb4e4f639657a55f2134112fde3d4abb0f02ee576b0c5413e296729a5bfca87850a99abaed04ac667c8a7047b89ff",
-  "sig": "e2ZTvAmvg6aKuoe7HwsX4oiD96mKkLyo+7D7Q2ytH7tOJSFd5888ck3pTr6JtsxAIp+S76kkbiruuWDPxTnuCA=="
+  "sha512": "ba2e017ccf70f3d72dc622cd5227861ac480342dc850edef70b79ff34a05f7d3b020df1c9bf976d2f30676557234648d79f203e814ac6f3db21e3792c56d9688",
+  "sig": "w7HXyWfaxyB+cH1MQ3a06WSXaqX0HWLMAitPoP2pUXLLwomcVUVQ86SunYBE3oovRTSh0HL7uL5jTIWQS8HTCg=="
 }
