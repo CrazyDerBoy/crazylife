@@ -1,7 +1,7 @@
 {
   "version": "2.4.0",
   "url": "game.html",
-  "sizeKb": 6962,
+  "sizeKb": 4096,
   "notes": {
     "de": [
       "Neue Optik: Alle Icons und Flaggen sind jetzt einheitliche 3D-Bilder statt System-Emojis, auf jedem Handy gleich. Dazu: Die Familien-Symbole und dunkle Icons sind besser lesbar."
@@ -11,6 +11,6 @@
     ]
   },
   "codes": [],
-  "sha512": "ba2e017ccf70f3d72dc622cd5227861ac480342dc850edef70b79ff34a05f7d3b020df1c9bf976d2f30676557234648d79f203e814ac6f3db21e3792c56d9688",
-  "sig": "w7HXyWfaxyB+cH1MQ3a06WSXaqX0HWLMAitPoP2pUXLLwomcVUVQ86SunYBE3oovRTSh0HL7uL5jTIWQS8HTCg=="
+  "sha512": "77643cbcefeb5e17d46f954252c440f7ffe41d62e72699f2a5003131c97f226a6880c775a5bf10902438f9027e45df572b0330e527cdaa18107f53971d1342fb",
+  "sig": "BCWNE9TzZzKYKhC1H6eHDnfALBO65Ggv14e+eeWnrf+CwUT6HUmM++J2lA1mWxX4bwmwqKELUQGNJyPcX3gjAg=="
 }
